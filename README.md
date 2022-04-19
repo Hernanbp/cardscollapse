@@ -1,3 +1,4 @@
+```css
 nav {
 display: flex;
 align-items: center;
@@ -67,3 +68,4 @@ max-width: 540px;
 }
 }
 }
+```
